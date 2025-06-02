@@ -1,3 +1,4 @@
+[rocks]
 cqueues = "*"
 http = "*"
 lua-cjson = "*"
