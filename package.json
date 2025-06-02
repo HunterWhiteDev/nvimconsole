@@ -1,0 +1,12 @@
+{
+  "name": "nvimconsole",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "test.js",
+  "scripts": {
+    "start": "concurrently \"node test.js\" \"lua init.lua\""
+  }
+}
